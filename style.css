@@ -1,0 +1,123 @@
+body{
+  background-color: white;
+}
+.container {
+    list-style-type: circle;
+    margin:0px;
+    padding:  0px;
+    overflow: hidden;
+    background-color: #8f2e2e;
+    border-radius: 20px;
+  }
+  
+  .world{
+    float: left;
+  }
+  
+  .active {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  .active:hover {
+    background-color: #111;
+  }
+  .class{
+    text-align: center;
+    text-decoration: solid;
+    text-shadow: #9c4444;
+    background-color: 5px green;
+  }
+ .bar{
+  text-align: center;
+  border-radius: 15px;
+  color: black;
+  padding: 10px;
+  margin-bottom: 170px 80px;
+  height: 30px;  
+  font-size: 40px;
+
+ }
+ .bar input.search {
+  border-radius: 30px;
+ }
+ .account{
+  text-align:end;
+  font-size: 20px;
+  border-radius: 30px;
+  color: green;
+  padding-top: 15px;
+  margin: 10px;
+ }
+
+ .signup{
+  color: aquamarine;
+  text-decoration: double;
+
+ }
+
+ .signup:hover{
+  background-color: green;
+  border-radius: 50px;
+  font-size :30px;;
+ }
+
+ .clean{
+  text-align: left;
+  background-color: 20px red;
+ }
+
+ .text{
+  text-align: center;
+  border-radius: 20px;
+  background-color: white;
+  margin-right: 850px;
+  margin-left: 350px;
+  margin-top: 30px;
+  text-shadow:green ;
+ }
+ .content{
+  text-align: justify;
+ }
+ .next{
+  background-color: red;
+  margin-bottom: 10px;
+ }
+
+ .register{
+  text-align: end;
+  text-shadow: green top-left;
+  margin-right: 50px;
+  background-color: burlywood;
+  margin-left:1000px;
+  margin-bottom:-220px ;
+  margin-top: -250px;
+  border-radius: 20px;
+  height: 300px;
+  width: 400px;
+ }
+ .head{
+  font-size: 40px;
+  color: green;
+  background-color: 2p solid tomato;
+  text-align:left ;
+ }
+ .form{
+  text-align: left;
+
+ }
+ .ready{
+  margin-top: 250px;
+ }
+ .logo{
+  float: left;
+  height: 350px;
+  margin: 4cap;
+  border-radius: 50px;
+  width: 400px;
+}
+
+  
